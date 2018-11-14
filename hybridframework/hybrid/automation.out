@@ -1,0 +1,11 @@
+2018-11-05 18:34:53 INFO  WaitHelper:29 - 60
+2018-11-05 18:34:53 INFO  WaitHelper:34 - 60
+2018-11-05 18:35:16 INFO  WaitHelper:59 - element found...Browse Our Category
+2018-11-05 18:35:31 INFO  WaitHelper:59 - element found...REGISTER
+2018-11-05 18:35:31 INFO  Homepage:103 - ----Entering first name----
+2018-11-05 18:35:32 INFO  Homepage:107 - ----Entering Entermiddlename---
+2018-11-05 18:35:32 INFO  Homepage:111 - ----Entering Enterlastname----
+2018-11-05 18:35:33 INFO  Homepage:115 - ----Entering Enteremail----
+2018-11-05 18:35:33 INFO  Homepage:119 - ----Entering EntercompanyRepresentative----
+2018-11-05 18:35:34 INFO  JavaScriptHelper:30 - arguments[0].scrollIntoView()
+2018-11-05 18:35:34 INFO  JavaScriptHelper:47 - [[ChromeDriver: chrome on MAC (3a1f83e6682ff2a0f6a9330cedf8f09c)] -> name: company]
