@@ -1,0 +1,53 @@
+git commands
+--------------------------------------------------------------------------------------------------------
+  1) git config --global user.name "enter user name"
+  2) git config --global user.email "enter email"--->here double quote not required
+       -->if you strat fresh project take url and clone to folder
+  3) git clone repository url
+       -->after that inside your given path one folder will be created so that using cmd cd set path again then do 
+  4) git init
+       -->to add all files
+  5) git add .
+  6) git add <filename>
+       -->to commit file
+  7) git commit -m "message"
+      -->to push to repository
+  8) git push or git push origin master  git push -u origin master
+      -->you want copy file from repository to local repository/project
+  9) git pull
+      -->to crate new branch
+  10) git checkout -b <give name for branch" to create> ex:abc
+      -->switch to master branch
+  11) git checkout master
+      -->switch to local branch
+  12) git checkout abc
+      -->to check whether your in master branch/remote
+  13) git remote
+  14) git remote -v
+       -->to add branch
+  15) git remote add origin <give url here>
+      -->to copy file from master branch to local first we need to switch to the master branch  and pull it
+  16) git pull origin master
+      -->checkout to local branch 
+  17) git checkout abc
+      -->my local branch is now abc---> and i am here do 
+  18) git pull origin master
+      -->to check which branch your are in do
+  19) git branch
+      -->to check modified file do it will show all untracked files(ex : two files i have )
+  20) git status
+      -->to add to branch do  
+  21) git add file1
+      --> check again
+  22) git status 
+      -->when i did git status i will display  1 untracked file so i don't want ton see it then do
+  23) git stash
+      -->to check this do
+  24) git status 
+      -->here 1 untraked file will not display
+      --> again i want to see it again means just do
+  25) git stash pop
+        or 
+  26) git stash apply
+
+
