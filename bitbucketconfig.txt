@@ -1,0 +1,9 @@
+configuring existing repository to bit bucket and eclipse project
+-------------------------------------------------------------------------------------
+step 1: copy repository url fron github server
+step 2: open bitbucket > click on plus button and click on import repository>paste url & give project name and click on import repository
+step 3: copy url of bitbucketproject 
+step 4: open cmd and set path of the drive /folder to clone with bitbucket 
+step 5: commandpromt  type git init  
+step 6: commandpromt type git clone (paste bitbucket project url)
+step 7: open eclipse >click on file import>type maven>import exsting maven project >select folder>finish
